@@ -2,6 +2,8 @@
 
 ## Customer Churn Prediction with Logistic Regression
 
+## Executive Summary
+
 Predicting who’s leaving before they leave. This project turns raw customer data into actionable insights, helping businesses retain high-value customers by flagging churn risk early. Simple, interpretable, and tuned for real-world impact.
 
 ## Business Problem
